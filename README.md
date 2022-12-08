@@ -2,7 +2,7 @@
 
 # Explanation
 
-TCP-Client is a project that you can create Client sockets for your programs. It supports basic message sending\recving.
+TCP-Client is a project that you can create Client sockets for your programs. It supports basic message sending\recving and file recving.
 
 # Issues
 
