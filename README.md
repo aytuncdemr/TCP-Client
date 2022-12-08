@@ -6,7 +6,7 @@ TCP-Client is a project that you can create Client sockets for your programs. It
 
 # Issues
 
-This program does not contain server life checking 
+This program does not contain server life checking which means that if the server is closed. Client program will not show any information about it.
 
 # Screenshots
 
